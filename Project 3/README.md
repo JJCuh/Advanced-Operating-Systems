@@ -1,4 +1,4 @@
-# 383_project3
+# COEN 383 Project 3
 
 
 # Multi-threaded Ticket Sellers  

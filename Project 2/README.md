@@ -1,5 +1,5 @@
 
-# 383_project2
+# COEN 383 Project 2
 
 # Process Scheduling Algorithms
 
